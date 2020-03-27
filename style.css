@@ -2,9 +2,10 @@ h1{
     margin-top: 150px;
 }
 .card{
-    margin: 50px 150px;
+    
+    margin : 50px 150px;
     border-radius: 10px;
-    box-shadow: 0px 1px 20px gray;
+    box-shadow: 5px 5px 10px gray;
 }
 
 .card-body{
